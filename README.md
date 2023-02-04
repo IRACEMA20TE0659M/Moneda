@@ -1,5 +1,9 @@
-# Moneda
-Ejercicio 1
+Ejercicio01
+
+Etapa 01. Descripción del problema
+Se requiere un programa en Java para convertir una cantidad de dinero en otros tipos de monedas (al menos a cinco tipos de monedas distintas).
+
+Etapa 02. Definición de la solución
 - Entrada
   float cantidad
   String moneda1, moneda2, moneda3, moneda4, moneda5
